@@ -15,6 +15,7 @@ python3 -m pip install paddlepaddle-gpu==2.1.1 -i https://mirror.baidu.com/pypi/
 - 安装 Layout-Parser
 ```angular2html
 pip3 install -U https://paddleocr.bj.bcebos.com/whl/layoutparser-0.0.0-py3-none-any.whl
+pip install "paddleocr>=2.2"
 ```
 - 按照其他必要的包
 ```angular2html
