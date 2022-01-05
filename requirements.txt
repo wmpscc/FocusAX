@@ -1,2 +1,5 @@
 PyMuPDF==1.18.14
 Pillow==8.4.0
+beautifulsoup4==4.9.3
+opencv-python==4.5.2.54
+opencv-python-headless==4.5.2.54
